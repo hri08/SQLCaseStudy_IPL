@@ -1,1 +1,1 @@
-# SQLCaseStudy_IPL
+# SQLCaseStudies
